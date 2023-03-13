@@ -1,3 +1,2 @@
-# desafios
-Esses desafios foram resolvido em pyhton.
+Esses desafios foram resolvido em pyhton. <br>
 Para executar, primeiro instale o python e coloque no terminal py <nome do arquivo>.py
