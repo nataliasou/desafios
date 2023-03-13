@@ -22,4 +22,4 @@ else:
 
 print("Essa é a sequência que eu calculei: ", fib)
 print("Prontinho, matou sua curiosidade?")
-print("*********************************")
+print("********************************")
